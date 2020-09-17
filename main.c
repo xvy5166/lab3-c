@@ -1,8 +1,15 @@
+// Author: Yanling Wang yuw17@psu.edu
+// Collaborator: Aravind Hariprased azh5899@psu.edu
+// Collaborator:Krish Choudhary ksc5496@psu.edu
+// Collaborator: Peter Schulman pks5481@psu.edu
+// Section: 4
+// Breakout: 6
+
+
+
 #include <stdio.h>
 #include <readline/readline.h>
 #include <stdlib.h>
-
-
 
 int sum_n(int n){
   if(n== 0){
